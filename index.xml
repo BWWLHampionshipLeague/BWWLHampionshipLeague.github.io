@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BWWL Hampionship League</title>
-    <link>https://www.example.com/</link>
+    <link>/</link>
     <description>Recent content on BWWL Hampionship League</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021 and Forever. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 04 Sep 2021 12:21:31 -0400</lastBuildDate><atom:link href="https://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Sep 2021 12:21:31 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Draft Rankings</title>
-      <link>https://www.example.com/post/draft/</link>
+      <link>/post/draft/</link>
       <pubDate>Sat, 04 Sep 2021 12:21:31 -0400</pubDate>
       
-      <guid>https://www.example.com/post/draft/</guid>
+      <guid>/post/draft/</guid>
       <description>Draft Recap All will say they survived, but some will never be the same&amp;hellip;
 After a frantic delay and shots of PROPA TWELVE, we managed to begin the draft after a mere 30 minute delay. I believe it was about the second round when I began raving that I was &amp;ldquo;so drunk&amp;rdquo; and that this draft would be a disaster. I remember going to Kevin several times and lamenting about how I chose D&amp;rsquo;Andre Swift over CeeDee Lamb, only to find out hours later CeeDee had been taken two rounds earlier.</description>
     </item>
     
     <item>
       <title>Rankings</title>
-      <link>https://www.example.com/about/</link>
+      <link>/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/about/</guid>
+      <guid>/about/</guid>
       <description>Current Power Rankings
  Team Owner Record Ranking    Alpha Chad Squad of Studs Steb 0-0 1   Gimme Da Cheeks PJ 0-0 1   Summer Camp Elites Conor 0-0 1   Audit the Scores Sean C 0-0 1   Set the Earth Reveberating Garrett 0-0 1   Newport Shorts Paul 0-0 1   bAsEd AnD rIdLeY PiLlEd Kebin 0-0 1   Stop He&amp;#39;s Already Dead Luke 0-0 1   Chubby Chasers Walhuf 0-0 1   Super Weenie Hut Jr&amp;#39;s Sean Brady 0-0 1    </description>
     </item>
