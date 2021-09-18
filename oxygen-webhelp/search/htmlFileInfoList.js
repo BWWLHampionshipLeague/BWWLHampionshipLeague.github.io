@@ -1,0 +1,14 @@
+fil = new Array();
+fil["0"]= "Conor.html@@@#1 - Conor@@@You gonna learn TODAY...";
+fil["1"]= "Garrett.html@@@#4 - Garrett@@@Hidden Vigorish...";
+fil["2"]= "KevinH.html@@@#9 - Kevin H@@@My Notebook Lied...";
+fil["3"]= "KevinWalhuf.html@@@#3 - Walhuf@@@Chubby Chasers...";
+fil["4"]= "Luke Clinton.html@@@#7 - Luke@@@Tanking to Host Jeopardy...";
+fil["5"]= "PJ.html@@@#6 - PJ@@@Drunk Steve Drafts Trash...";
+fil["6"]= "Paul.html@@@#5 - Paul@@@Newport Shorts...";
+fil["7"]= "SeanBrady.html@@@#10 - Sean Brady@@@Super Weenie Hut Jr&apos;s...";
+fil["8"]= "SeanClinton.html@@@#8 - Sean Clinton@@@Diving for Mitchell...";
+fil["9"]= "Steb.html@@@#2 - Steb@@@0 RESEARCH 0 PROBLEMS...";
+fil["10"]= "team_1.html@@@#10@@@Super Weenie Hut Jr&apos;s...";
+fil["11"]= "welcome_to_da_rankz.html@@@Welcome to da Rankz@@@Take the redpill, and follow the Steb down the fantasy rabbit hole in dis week&apos;s POWA RANKINGS...";
+var doStem = false;searchLoaded = true;
